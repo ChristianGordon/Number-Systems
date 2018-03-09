@@ -1,0 +1,24 @@
+Enter a decimal number to convert into hexadecimal: 65535
+Decimal to hexadecimal: ffff
+Enter a decimal number to convert into hexadecimal: 1000000
+Decimal to hexadecimal: f4240
+Enter a decimal number to convert into hexadecimal: 1234567890
+Decimal to hexadecimal: 499602d2
+Binary to Hexadecimal conversion
+Enter a binary number: 
+01100101110011011010111000000101
+65cdae05
+Binary to Hexadecimal conversion
+Enter a binary number: 
+01111111111111110010000111010011
+7fff21d3
+Binary to Hexadecimal conversion
+Enter a binary number: 
+00101011101011010111011000111010
+2bad763a
+Enter a hexadecimal number: 12345678
+Decimal Number : 305419896
+Enter a hexadecimal number: 2A3DF8A7
+Decimal Number : 708704423
+Enter a hexadecimal number: 00FF00FF
+Decimal Number : 16711935
